@@ -1,16 +1,56 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Md Monasshir Firdoshi</h1>
 
-<!--
-**monasshir123/monasshir123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>MCA Student | Programmer | Tech Enthusiast</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/monasshir123">GitHub</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+I'm an MCA student interested in **programming, web development and problem solving**.
+
+I enjoy learning new technologies and building projects while improving my coding skills.
+
+## 🛠️ Skills
+
+**Languages:** C • Python • JavaScript
+
+**Web:** HTML • CSS • Flask
+
+**Tools:** Git • GitHub • VS Code
+
+## 🚀 Projects
+
+* 🌐 **Campus Assistance** — Web-based student assistance project
+* 💻 **C Programming** — Programming practice and problem solving
+* 🌐 **Web Projects** — HTML, CSS & JavaScript projects
+
+## 📚 Currently Learning
+
+* Data Structures & Algorithms
+* Python
+* Backend Development
+* Web Development
+
+## 📊 GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monasshir123&show_icons=true&theme=tokyonight" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=monasshir123&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <b>Learn • Build • Improve 🚀</b>
+</p>
