@@ -12,13 +12,13 @@
 
 ## 👨‍💻 About Me
 
-I'm an MCA student interested in **programming, web development and problem solving**.
+I'm an MCA student at NIT Raipur ,interested in **programming, web development and problem solving**.
 
 I enjoy learning new technologies and building projects while improving my coding skills.
 
 ## 🛠️ Skills
 
-**Languages:** C • Python • JavaScript
+**Languages:** C • Java • JavaScript • Shell Scripting
 
 **Web:** HTML • CSS • Flask
 
@@ -33,7 +33,7 @@ I enjoy learning new technologies and building projects while improving my codin
 ## 📚 Currently Learning
 
 * Data Structures & Algorithms
-* Python
+* Java
 * Backend Development
 * Web Development
 
