@@ -22,7 +22,7 @@ I enjoy learning new technologies and building projects while improving my codin
 
 **Web:** HTML • CSS • Flask
 
-**Tools:** Git • GitHub • VS Code
+**Tools:** Git • GitHub • VS Code • IntelliJ IDEA CE
 
 ## 🚀 Projects
 
@@ -36,6 +36,7 @@ I enjoy learning new technologies and building projects while improving my codin
 * Java
 * Backend Development
 * Web Development
+* Object Oriented Programming
 
 ## 📊 GitHub
 
