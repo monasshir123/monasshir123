@@ -11,6 +11,9 @@
 ---
 
 ## 👨‍💻 About Me
+<a href="https://www.youtube.com/watch?v=oskiEydAaok&list=PL67b5wgxuUtAWuQscGa6pnBD6SFv92W5W" target="_blank">
+  <img src="/MonasshirGitHub.png" alt="GitHub"/>
+</a>
 
 I'm an MCA student at NIT Raipur ,interested in **programming, web development and problem solving**.
 
